@@ -1,0 +1,15 @@
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\bin\Debug\net7.0\velha2.exe
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\bin\Debug\net7.0\velha2.deps.json
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\bin\Debug\net7.0\velha2.runtimeconfig.json
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\bin\Debug\net7.0\velha2.dll
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\bin\Debug\net7.0\velha2.pdb
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\obj\Debug\net7.0\velha2.csproj.AssemblyReference.cache
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\obj\Debug\net7.0\velha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\obj\Debug\net7.0\velha2.AssemblyInfoInputs.cache
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\obj\Debug\net7.0\velha2.AssemblyInfo.cs
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\obj\Debug\net7.0\velha2.csproj.CoreCompileInputs.cache
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\obj\Debug\net7.0\velha2.dll
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\obj\Debug\net7.0\refint\velha2.dll
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\obj\Debug\net7.0\velha2.pdb
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\obj\Debug\net7.0\velha2.genruntimeconfig.cache
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\velha2\obj\Debug\net7.0\ref\velha2.dll
